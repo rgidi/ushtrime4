@@ -1,0 +1,10 @@
+C:\Users\GRKN\Documents\Ushtrime_4\Ushtrime_4\bin\Debug\Ushtrime_4.exe
+C:\Users\GRKN\Documents\Ushtrime_4\Ushtrime_4\bin\Debug\Ushtrime_4.pdb
+C:\Users\GRKN\Documents\Ushtrime_4\Ushtrime_4\obj\Debug\Ushtrime_4.csprojResolveAssemblyReference.cache
+C:\Users\GRKN\Documents\Ushtrime_4\Ushtrime_4\obj\Debug\Ushtrime_4.Kryesore.resources
+C:\Users\GRKN\Documents\Ushtrime_4\Ushtrime_4\obj\Debug\Ushtrime_4.Properties.Resources.resources
+C:\Users\GRKN\Documents\Ushtrime_4\Ushtrime_4\obj\Debug\Ushtrime_4.csproj.GenerateResource.Cache
+C:\Users\GRKN\Documents\Ushtrime_4\Ushtrime_4\obj\Debug\Ushtrime_4.exe
+C:\Users\GRKN\Documents\Ushtrime_4\Ushtrime_4\obj\Debug\Ushtrime_4.pdb
+C:\Users\GRKN\Documents\Ushtrime_4\Ushtrime_4\bin\Debug\nunit.framework.dll
+C:\Users\GRKN\Documents\Ushtrime_4\Ushtrime_4\bin\Debug\nunit.framework.xml
